@@ -11,6 +11,9 @@
   },
   "private": true,
   "dependencies": {
+    "cors":"*",
+    "express":"*",
+    "body-parser":"*",
     "@angular/animations": "~9.0.3",
     "@angular/common": "~9.0.3",
     "@angular/compiler": "~9.0.3",
